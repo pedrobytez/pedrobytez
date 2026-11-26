@@ -60,14 +60,17 @@ Atualmente, estou aprendendo programação e desenvolvimento de sistemas. Ao lon
 
 ---
 
-## 🏆 Conquistas
+---
+
+## 🧠 Minha jornada na programação
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pedro-best-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aprendendo+Python;Explorando+HTML+e+CSS;Conhecendo+JavaScript;Praticando+logica+com+Portugol;Construindo+meu+futuro+na+tecnologia." />
 
 </div>
 
+---
 ---
 
 ## 📈 Atividade no GitHub
