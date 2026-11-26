@@ -43,7 +43,7 @@ Atualmente, estou aprendendo programação e desenvolvimento de sistemas. Ao lon
 </div>
 
 **🚀 Em constante evolução:** novas linguagens, ferramentas e tecnologias serão adicionadas conforme meu aprendizado avançar durante o curso de Desenvolvimento de Sistemas.
-
+---
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
