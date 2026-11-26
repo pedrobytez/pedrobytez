@@ -66,19 +66,22 @@ Atualmente, estou aprendendo programação e desenvolvimento de sistemas. Ao lon
 
 ---
 
-## ⚡ Minha atividade no GitHub
+---
+
+## 🎯 Objetivos de desenvolvedor
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedro-best-dev&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Meu%20Hist%C3%B3rico%20de%20Contribui%C3%A7%C3%B5es" width="100%"/>
+| 🚀 Objetivo | Status |
+|:---|:---:|
+| Aprender Python | 🔄 Em andamento |
+| Dominar HTML e CSS | 🔄 Em andamento |
+| Aprender JavaScript | 🎯 Próximo objetivo |
+| Desenvolver projetos próprios | 🚀 Em evolução |
+| Aprimorar lógica de programação | 📚 Em aprendizado |
 
 </div>
 
----
----
-</div>
-
----
 ---
 
 ## 📈 Atividade no GitHub
