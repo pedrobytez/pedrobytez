@@ -62,25 +62,19 @@ Atualmente, estou aprendendo programação e desenvolvimento de sistemas. Ao lon
 
 ---
 
----
-
----
-
----
-
-## 🎯 Objetivos de desenvolvedor
+## 📡 Dev Metrics
 
 <div align="center">
 
-| 🚀 Objetivo | Status |
-|:---|:---:|
-| Aprender Python | 🔄 Em andamento |
-| Dominar HTML e CSS | 🔄 Em andamento |
-| Aprender JavaScript | 🎯 Próximo objetivo |
-| Desenvolver projetos próprios | 🚀 Em evolução |
-| Aprimorar lógica de programação | 📚 Em aprendizado |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro-best-dev&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedro-best-dev&theme=tokyonight&utcOffset=-3" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedro-best-dev&theme=tokyonight" width="49%" />
 
 </div>
+
+---
 
 ---
 
