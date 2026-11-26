@@ -64,14 +64,17 @@ Atualmente, estou aprendendo programação e desenvolvimento de sistemas. Ao lon
 
 ---
 
-## 🧊 Minha atividade no GitHub
+---
+
+## ⚡ Minha atividade no GitHub
 
 <div align="center">
 
-<img src="https://github-profiles-insights.vercel.app/api/contrib-3d?username=pedro-best-dev&style=alberto&animate=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedro-best-dev&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Meu%20Hist%C3%B3rico%20de%20Contribui%C3%A7%C3%B5es" width="100%"/>
 
 </div>
 
+---
 ---
 </div>
 
