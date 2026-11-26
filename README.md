@@ -62,12 +62,17 @@ Atualmente, estou aprendendo programação e desenvolvimento de sistemas. Ao lon
 
 ---
 
-## 🧠 Minha jornada na programação
+---
+
+## 🧊 Minha atividade no GitHub
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aprendendo+Python;Explorando+HTML+e+CSS;Conhecendo+JavaScript;Praticando+logica+com+Portugol;Construindo+meu+futuro+na+tecnologia." />
+<img src="https://github-profiles-insights.vercel.app/api/contrib-3d?username=pedro-best-dev&style=alberto&animate=true" width="100%" />
 
+</div>
+
+---
 </div>
 
 ---
