@@ -60,24 +60,6 @@ Atualmente, estou aprendendo programação e desenvolvimento de sistemas. Ao lon
 
 ---
 
----
-
-## 📡 Dev Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro-best-dev&theme=tokyonight" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedro-best-dev&theme=tokyonight&utcOffset=-3" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedro-best-dev&theme=tokyonight" width="49%" />
-
-</div>
-
----
-
----
-
 ## 📈 Atividade no GitHub
 
 <div align="center">
